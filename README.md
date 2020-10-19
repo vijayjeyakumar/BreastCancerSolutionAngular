@@ -1,2 +1,3 @@
 # BreastCancerSolutionAngular
-Angular Front End code
+Angular Front End code for BCS
+
